@@ -1,3 +1,0 @@
-Single, 450.00
-Twin, 700.00
-Triple, 900.00
